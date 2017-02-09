@@ -1,0 +1,1 @@
+$("a").filter(function(index){return $(this).text()==="unsave"}).click()
